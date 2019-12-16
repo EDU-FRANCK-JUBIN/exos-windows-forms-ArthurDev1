@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Les informations générales relatives à un assembly dépendent de
 // l'ensemble d'attributs suivant. Changez les valeurs de ces attributs pour modifier les informations
 // associées à un assembly.
-[assembly: AssemblyTitle("HelloWorld")]
+[assembly: AssemblyTitle("WindowsFormsAppHelloWorld")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("HelloWorld")]
+[assembly: AssemblyProduct("WindowsFormsAppHelloWorld")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Le GUID suivant est pour l'ID de la typelib si ce projet est exposé à COM
-[assembly: Guid("d24fbab3-2ddb-4bda-8519-e6b67b5c099c")]
+[assembly: Guid("d0b1c28e-d998-43ce-8923-e3f44a09da3c")]
 
 // Les informations de version pour un assembly se composent des quatre valeurs suivantes :
 //
